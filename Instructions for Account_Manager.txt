@@ -1,5 +1,7 @@
 Instructions for Using [ACCOUNT_MANAGER] (BANK MANAGEMENT SYSTEM)
 
+A new beginning took place with the initialization of account_manager.py and amsql.py by Satvik on 3rd October 2024
+
 Step 1: Create the Database
 1. Open your preferred SQL database management system. You can use MySQL, PostgreSQL, Oracle, or any other supported system.
 2. Create a database named "account_manager" by running the following command:
